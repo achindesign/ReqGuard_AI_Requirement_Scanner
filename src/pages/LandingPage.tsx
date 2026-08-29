@@ -125,7 +125,7 @@ export function LandingPage() {
                 See Example Analysis
               </Button>
             </div>
-            <p className="mt-4 text-sm text-gray-400">No credit card required. Free plan includes 1 analysis per month.</p>
+            <p className="mt-4 text-sm text-gray-400">No credit card required. Free plan includes 2 analyses per month.</p>
           </div>
         </div>
       </section>

@@ -103,13 +103,13 @@ export const SCORE_WEIGHTS = {
 } as const;
 
 export const PLAN_LIMITS: Record<Plan, { analyses: number; requirements: number; label: string }> = {
-  free: { analyses: 1, requirements: 10, label: 'Free' },
+  free: { analyses: 2, requirements: 10, label: 'Free' },
   pro: { analyses: 50, requirements: 1000, label: 'Pro' },
   professional: { analyses: 999999, requirements: 999999, label: 'Professional' },
 };
 
 export const PLAN_PRICES: Record<Plan, { monthly: number; description: string }> = {
-  free: { monthly: 0, description: '1 analysis/month · 10 requirements · Basic findings' },
+  free: { monthly: 0, description: '2 analyses/month · 10 requirements · Basic findings' },
   pro: { monthly: 9, description: '50 analyses/month · 1,000 requirements · Full analysis + AI rewriting + PDF export' },
   professional: { monthly: 19, description: 'Unlimited reasonable usage · Bulk analysis · Advanced contradiction detection' },
 };

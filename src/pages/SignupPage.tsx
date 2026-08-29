@@ -38,7 +38,7 @@ export function SignupPage() {
         <div>
           <h1 className="text-2xl font-bold tracking-tight text-gray-900">Create your account</h1>
           <p className="mt-1 text-sm text-gray-500">
-            Start analyzing requirements with AI. Free plan includes 1 analysis per month.
+            Start analyzing requirements with AI. Free plan includes 2 analyses per month.
           </p>
         </div>
 

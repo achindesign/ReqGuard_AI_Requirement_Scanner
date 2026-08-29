@@ -11,9 +11,9 @@ const plans: { id: Plan; name: string; price: number; description: string; featu
     id: 'free',
     name: 'Free',
     price: 0,
-    description: '1 analysis/month · 10 requirements · Basic quality analysis',
+    description: '2 analyses/month · 10 requirements · Basic quality analysis',
     features: [
-      '1 analysis per month',
+      '2 analyses per month',
       'Up to 10 requirements per document',
       'Basic quality scoring',
       'Ambiguity detection',

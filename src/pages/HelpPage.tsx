@@ -19,7 +19,7 @@ const faqs = [
       },
       {
         q: 'How do I get started?',
-        a: 'Sign up for a free account, then click "New Analysis" to upload your first document. The free plan includes 1 analysis per month with up to 10 requirements.',
+        a: 'Sign up for a free account, then click "New Analysis" to upload your first document. The free plan includes 2 analyses per month with up to 10 requirements.',
       },
     ],
   },
@@ -51,7 +51,7 @@ const faqs = [
     questions: [
       {
         q: 'What are the plan limits?',
-        a: 'Free: 1 analysis/month, 10 requirements. Pro ($9/mo): 50 analyses/month, 1,000 requirements. Professional ($19/mo): unlimited reasonable usage, bulk analysis, advanced features.',
+        a: 'Free: 2 analyses/month, 10 requirements. Pro ($9/mo): 50 analyses/month, 1,000 requirements. Professional ($19/mo): unlimited reasonable usage, bulk analysis, advanced features.',
       },
       {
         q: 'What happens when I reach my limit?',
